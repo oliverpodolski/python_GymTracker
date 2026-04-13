@@ -1,0 +1,23 @@
+[
+    {
+        "Year": 2026,
+        "Month": 4,
+        "Day": 12,
+        "Weight": 50.0,
+        "Reps": 8
+    },
+    {
+        "Year": 2026,
+        "Month": 4,
+        "Day": 13,
+        "Weight": 52.0,
+        "Reps": 8
+    },
+    {
+        "Year": 2026,
+        "Month": 4,
+        "Day": 14,
+        "Weight": 55.0,
+        "Reps": 8
+    }
+]
